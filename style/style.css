@@ -1,0 +1,16 @@
+.search-bar{
+	margin:20px auto;
+	text-align: center;
+}
+
+.search-bar input {
+	width:80%;
+	margin:0 auto;
+}
+
+.details {
+	padding:10px 20px;
+	border-radius: 0.25rem;
+	border: 1px solid #ddd;
+	margin-top:1rem;
+}
