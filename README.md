@@ -1,2 +1,2 @@
 # ReduxYoutube
-Youtube mini clone with Redux and React
+Youtube mini clone with React
