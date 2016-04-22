@@ -14,3 +14,7 @@
 	border: 1px solid #ddd;
 	margin-top:1rem;
 }
+
+.list-group-item {
+	cursor:pointer;
+}
